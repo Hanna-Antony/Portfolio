@@ -26,6 +26,7 @@ body{
 .container{
   width: 1170px;
   margin:auto;
+
 }
 
 
@@ -74,7 +75,7 @@ body{
 }
 
 .signature {
-  width: 150px; 
+  width: 180px; 
   height:100; 
   margin-right: 10px; 
 }
@@ -186,7 +187,8 @@ profile-photo .img{
  /*---------------------------About---------------------------*/
 
 .about-area{
-  padding-top: 150px;
+  padding-top: 200px;
+  padding-bottom: 220px;
   background-color:  #050505;
 }
 .about{
@@ -253,7 +255,9 @@ profile-photo .img{
 
 
 /*---------------------------Education & Internship---------------------------*/
-
+/* .education-content{
+  padding-top: 220px;
+} */
 .education-content .row{
   display: flex;
   border-radius: 5px;
